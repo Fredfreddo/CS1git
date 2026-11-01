@@ -1,3 +1,2 @@
 # CS1git
-
-Coursework and notes for CS1.
+For Bocconi CS1
